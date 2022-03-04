@@ -1,13 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baozishu.github.io</id>
-    <title>错误代码工作室</title>
-    <updated>2022-03-04T13:22:43.743Z</updated>
+    <title>Error code studio </title>
+    <updated>2022-03-04T16:36:25.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baozishu.github.io"/>
     <link rel="self" href="https://baozishu.github.io/atom.xml"/>
-    <subtitle>一群有意思的小伙伴，组成的团队，各自奉献着自身的光芒！！！</subtitle>
+    <subtitle>一群有意思的小伙伴，各自的梦想，各自奉献着自身的光芒！！！</subtitle>
     <logo>https://baozishu.github.io/images/avatar.png</logo>
     <icon>https://baozishu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 错误代码工作室</rights>
+    <rights>All rights reserved 2022, Error code studio </rights>
+    <entry>
+        <title type="html"><![CDATA[错误代码正式起航]]></title>
+        <id>https://baozishu.github.io/FhKZwFOWp/</id>
+        <link href="https://baozishu.github.io/FhKZwFOWp/">
+        </link>
+        <updated>2022-03-04T16:31:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://baozishu.github.io/post-images/1646411617818.png" alt="起航" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[域名、运行的项目]]></title>
+        <id>https://baozishu.github.io/RzEdhCKv2/</id>
+        <link href="https://baozishu.github.io/RzEdhCKv2/">
+        </link>
+        <updated>2022-03-04T16:21:56.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="一-域名">一、域名</h3>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">域名</th>
+<th style="text-align:center">注册商</th>
+<th style="text-align:center">过期时间</th>
+<th style="text-align:center">价格/续费/年</th>
+<th style="text-align:center">是否续费</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">聚.online</td>
+<td style="text-align:center">西部数码</td>
+<td style="text-align:center">2031-09-08</td>
+<td style="text-align:center">十年/48 元/年</td>
+<td style="text-align:center">长期续费</td>
+</tr>
+<tr>
+<td style="text-align:center">353.ee</td>
+<td style="text-align:center">趣域</td>
+<td style="text-align:center">2023-02-08</td>
+<td style="text-align:center">63 元/年</td>
+<td style="text-align:center">长期续费</td>
+</tr>
+<tr>
+<td style="text-align:center">站.top</td>
+<td style="text-align:center">腾讯云</td>
+<td style="text-align:center">2022-10-21</td>
+<td style="text-align:center">28 元/年</td>
+<td style="text-align:center">长期续费</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<h3 id="二-项目">二、项目</h3>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">域名</th>
+<th style="text-align:center">项目名称</th>
+<th style="text-align:center">是否运行</th>
+<th>简介</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">353.ee</td>
+<td style="text-align:center">错误代码工作室</td>
+<td style="text-align:center">是</td>
+<td>错误代码工作室官网</td>
+</tr>
+<tr>
+<td style="text-align:center">聚.online</td>
+<td style="text-align:center">聚.online</td>
+<td style="text-align:center">是</td>
+<td>分享、羊毛、教程、等等综合</td>
+</tr>
+<tr>
+<td style="text-align:center">k.聚.online</td>
+<td style="text-align:center">在线影视</td>
+<td style="text-align:center">是</td>
+<td>影视在线解析、爱奇艺、腾讯等等</td>
+</tr>
+<tr>
+<td style="text-align:center">waimai.353.ee</td>
+<td style="text-align:center">外卖优惠卷</td>
+<td style="text-align:center">是</td>
+<td>美团外卖、饿了么外卖等等优惠卷</td>
+</tr>
+<tr>
+<td style="text-align:center">353.ee/Status</td>
+<td style="text-align:center">网站在线运行状态</td>
+<td style="text-align:center">是</td>
+<td>在线查看网站运行状态</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[353.EE 二月更新日志 ]]></title>
+        <id>https://baozishu.github.io/n3zfo4cb5/</id>
+        <link href="https://baozishu.github.io/n3zfo4cb5/">
+        </link>
+        <updated>2022-03-04T15:38:55.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="二-20220222">二、2022.02.22</h3>
+<ol>
+<li>更新首页 Member （团队成员）</li>
+<li>更新首页 Welfare （福利）</li>
+<li>更新首页 Status （运行状态）</li>
+<li>更新首页 服务区<br>
+<img src="https://baozishu.github.io/post-images/1646409394520.png" alt="2022.02.22" loading="lazy"></li>
+</ol>
+<h3 id="一-20220221">一、2022.02.21</h3>
+<ol>
+<li>更新首页 Join （加入我们）</li>
+<li>更新首页 Works （作品）<br>
+<img src="https://baozishu.github.io/post-images/1646409234104.png" alt="2022.02.21" loading="lazy"><br>
+<img src="https://baozishu.github.io/post-images/1646409240823.png" alt="2022.02.21" loading="lazy"></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错误代码 Team]]></title>
+        <id>https://baozishu.github.io/NNlUUtfIB/</id>
+        <link href="https://baozishu.github.io/NNlUUtfIB/">
+        </link>
+        <updated>2022-03-04T13:26:33.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="成立时间">成立时间</h3>
+<p>成立于 2016年11月 某天</p>
+<h3 id="团队成员">团队成员</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">昵称</th>
+<th style="text-align:center">职务</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">包子叔</td>
+<td style="text-align:center">创始人</td>
+<td>什么都不会，人不好，能说会道</td>
+</tr>
+<tr>
+<td style="text-align:center">郭仔</td>
+<td style="text-align:center">创始人</td>
+<td>很优雅，够骚</td>
+</tr>
+<tr>
+<td style="text-align:center">莫少</td>
+<td style="text-align:center">创始人</td>
+<td>大衰哥，有点子</td>
+</tr>
+<tr>
+<td style="text-align:center">One</td>
+<td style="text-align:center">创始人</td>
+<td>国服花木兰，游戏厉害啦</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
 </feed>
