@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://353boke.github.io</id>
+    <id>https://baozishu.github.io</id>
     <title>错误代码工作室</title>
-    <updated>2022-03-04T04:05:48.395Z</updated>
+    <updated>2022-03-04T04:28:24.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://353boke.github.io"/>
-    <link rel="self" href="https://353boke.github.io/atom.xml"/>
+    <link rel="alternate" href="https://baozishu.github.io"/>
+    <link rel="self" href="https://baozishu.github.io/atom.xml"/>
     <subtitle>错误代码工作室</subtitle>
-    <logo>https://353boke.github.io/images/avatar.png</logo>
-    <icon>https://353boke.github.io/favicon.ico</icon>
+    <logo>https://baozishu.github.io/images/avatar.png</logo>
+    <icon>https://baozishu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 错误代码工作室</rights>
 </feed>
