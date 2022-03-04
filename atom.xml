@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Blog</id>
+    <id>https://baozishu.github.io</id>
     <title>Error code studio </title>
-    <updated>2022-03-04T20:49:43.703Z</updated>
+    <updated>2022-03-04T21:15:30.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Blog"/>
-    <link rel="self" href="https://Blog/atom.xml"/>
+    <link rel="alternate" href="https://baozishu.github.io"/>
+    <link rel="self" href="https://baozishu.github.io/atom.xml"/>
     <subtitle>一群有意思的小伙伴，各自的梦想，各自奉献着自身的光芒！！！</subtitle>
-    <logo>https://Blog/images/avatar.png</logo>
-    <icon>https://Blog/favicon.ico</icon>
+    <logo>https://baozishu.github.io/images/avatar.png</logo>
+    <icon>https://baozishu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Error code studio </rights>
     <entry>
         <title type="html"><![CDATA[错误代码正式起航]]></title>
-        <id>https://Blog/FhKZwFOWp/</id>
-        <link href="https://Blog/FhKZwFOWp/">
+        <id>https://baozishu.github.io/FhKZwFOWp/</id>
+        <link href="https://baozishu.github.io/FhKZwFOWp/">
         </link>
         <updated>2022-03-04T16:31:24.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Blog/post-images/1646411617818.png" alt="起航" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://baozishu.github.io/post-images/1646411617818.png" alt="起航" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[域名、运行的项目]]></title>
-        <id>https://Blog/RzEdhCKv2/</id>
-        <link href="https://Blog/RzEdhCKv2/">
+        <id>https://baozishu.github.io/RzEdhCKv2/</id>
+        <link href="https://baozishu.github.io/RzEdhCKv2/">
         </link>
         <updated>2022-03-04T16:21:56.000Z</updated>
         <content type="html"><![CDATA[<h3 id="一-域名">一、域名</h3>
@@ -115,8 +115,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[353.EE 二月更新日志 ]]></title>
-        <id>https://Blog/n3zfo4cb5/</id>
-        <link href="https://Blog/n3zfo4cb5/">
+        <id>https://baozishu.github.io/n3zfo4cb5/</id>
+        <link href="https://baozishu.github.io/n3zfo4cb5/">
         </link>
         <updated>2022-03-04T15:38:55.000Z</updated>
         <content type="html"><![CDATA[<h3 id="二-20220222">二、2022.02.22</h3>
@@ -125,21 +125,21 @@
 <li>更新首页 Welfare （福利）</li>
 <li>更新首页 Status （运行状态）</li>
 <li>更新首页 服务区<br>
-<img src="https://Blog/post-images/1646409394520.png" alt="2022.02.22" loading="lazy"></li>
+<img src="https://baozishu.github.io/post-images/1646409394520.png" alt="2022.02.22" loading="lazy"></li>
 </ol>
 <h3 id="一-20220221">一、2022.02.21</h3>
 <ol>
 <li>更新首页 Join （加入我们）</li>
 <li>更新首页 Works （作品）<br>
-<img src="https://Blog/post-images/1646409234104.png" alt="2022.02.21" loading="lazy"><br>
-<img src="https://Blog/post-images/1646409240823.png" alt="2022.02.21" loading="lazy"></li>
+<img src="https://baozishu.github.io/post-images/1646409234104.png" alt="2022.02.21" loading="lazy"><br>
+<img src="https://baozishu.github.io/post-images/1646409240823.png" alt="2022.02.21" loading="lazy"></li>
 </ol>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[错误代码 Team]]></title>
-        <id>https://Blog/NNlUUtfIB/</id>
-        <link href="https://Blog/NNlUUtfIB/">
+        <id>https://baozishu.github.io/NNlUUtfIB/</id>
+        <link href="https://baozishu.github.io/NNlUUtfIB/">
         </link>
         <updated>2022-03-04T13:26:33.000Z</updated>
         <content type="html"><![CDATA[<h3 id="成立时间">成立时间</h3>
