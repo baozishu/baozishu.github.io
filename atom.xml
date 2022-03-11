@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baozishu.github.io</id>
     <title>Error code studio </title>
-    <updated>2022-03-11T08:06:15.657Z</updated>
+    <updated>2022-03-11T09:29:36.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baozishu.github.io"/>
     <link rel="self" href="https://baozishu.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://baozishu.github.io/images/avatar.png</logo>
     <icon>https://baozishu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Error code studio </rights>
+    <entry>
+        <title type="html"><![CDATA[😸站.Top - 你的建站社区]]></title>
+        <id>https://baozishu.github.io/wqWetKD9t/</id>
+        <link href="https://baozishu.github.io/wqWetKD9t/">
+        </link>
+        <updated>2022-03-11T09:09:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://baozishu.github.io/post-images/1646990062985.png" alt="站.Top" loading="lazy"></figure>
+<hr>
+<h2 id="介绍">介绍</h2>
+<p>站Top专注于，网站主题、插件、源码、教程、一切文章收集来自互联网，只做有个收集作用。</p>
+<h2 id="网址">网址</h2>
+<p>站.top</p>
+<h2 id="成立时间">成立时间</h2>
+<p>2022.03.07 时间还要往前 这只是上线时间</p>
+<h2 id="管理人员">管理人员</h2>
+<table>
+<thead>
+<tr>
+<th>昵称</th>
+<th>职务</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>包子叔</td>
+<td>站长、管理、客服</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[错误代码正式起航]]></title>
         <id>https://baozishu.github.io/FhKZwFOWp/</id>
